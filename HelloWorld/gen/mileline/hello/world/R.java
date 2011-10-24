@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package test.Package;
+package mileline.hello.world;
 
 public final class R {
     public static final class attr {
