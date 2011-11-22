@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EuropeanCountryQuizActivity!</string>
+    <string name="app_name">EuropeanCountryQuiz</string>
+    <string name="obtiznost">Zvolte obtížnost kvízu</string>
+    <string name="zvolit">Zvolit</string>
+    <string name="lehka">Lehká</string>
+    <string name="stredni">Střední</string>
+    <string name="tezka">Těžká</string>
+    <string name="zivoty">Životy</string>
+
+</resources>
